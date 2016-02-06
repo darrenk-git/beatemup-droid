@@ -31,7 +31,7 @@ Eoin Butler Thornton
 
 **Art**
 
-Darren Kearney https://github.com/darrenk-git  http://darrenkearney.me
+Darren Kearney https://github.com/darrenkearney  http://darrenkearney.me
 
 Alan Kinsella
 
